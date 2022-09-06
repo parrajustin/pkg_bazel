@@ -7,7 +7,7 @@
   "repository": "vercel/pkg",
   "types": "lib-es5/index.d.ts",
   "bin": {
-    "pkg": "lib-es5/bin.js"
+    "pkg-bazel": "lib-es5/bin.js"
   },
   "files": [
     "lib-es5/*.js",
